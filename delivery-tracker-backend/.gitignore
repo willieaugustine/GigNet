@@ -1,0 +1,5 @@
+# delivery-tracker-backend/.gitignore
+.env
+__pycache__/
+*.pyc
+node_modules/
